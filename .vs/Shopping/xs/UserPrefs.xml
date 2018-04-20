@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3BC68F27-3D1B-4892-AE13-26717DC0BBE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shopping/Program.cs">
+    <Files>
+      <File FileName="Shopping/Program.cs" Line="7" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Shopping PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/Chao/projects/Shopping/Shopping/bin/Debug/netcoreapp2.0/Shopping.deps.json
+/Users/Chao/projects/Shopping/Shopping/bin/Debug/netcoreapp2.0/Shopping.runtimeconfig.json
+/Users/Chao/projects/Shopping/Shopping/bin/Debug/netcoreapp2.0/Shopping.runtimeconfig.dev.json
+/Users/Chao/projects/Shopping/Shopping/bin/Debug/netcoreapp2.0/Shopping.dll
+/Users/Chao/projects/Shopping/Shopping/bin/Debug/netcoreapp2.0/Shopping.pdb
+/Users/Chao/projects/Shopping/Shopping/obj/Debug/netcoreapp2.0/Shopping.csprojResolveAssemblyReference.cache
+/Users/Chao/projects/Shopping/Shopping/obj/Debug/netcoreapp2.0/Shopping.csproj.CoreCompileInputs.cache
+/Users/Chao/projects/Shopping/Shopping/obj/Debug/netcoreapp2.0/Shopping.AssemblyInfoInputs.cache
+/Users/Chao/projects/Shopping/Shopping/obj/Debug/netcoreapp2.0/Shopping.AssemblyInfo.cs
+/Users/Chao/projects/Shopping/Shopping/obj/Debug/netcoreapp2.0/Shopping.dll
+/Users/Chao/projects/Shopping/Shopping/obj/Debug/netcoreapp2.0/Shopping.pdb
